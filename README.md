@@ -55,4 +55,3 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
->>>>>>> de676a7... Initial commit
